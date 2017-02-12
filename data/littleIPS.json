@@ -1,0 +1,104 @@
+{
+    "162.254.20.24": {
+        "Longitude": -97.9515,
+        "Org": "Pioneer Cellular",
+        "ISP": "Pioneer Cellular",
+        "Latitude": 35.851
+    },
+    "166.143.143.154": {
+        "Longitude": -76.618,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 41.224
+    },
+    "206.19.210.93": {
+        "Longitude": -85.5707,
+        "Org": "AT&T Enhanced Network Services",
+        "ISP": "CERFnet",
+        "Latitude": 44.8096
+    },
+    "166.130.117.131": {
+        "Longitude": -84.388,
+        "Org": "AT&T Wireless",
+        "ISP": "AT&T Wireless",
+        "Latitude": 33.749
+    },
+    "166.255.63.114": {
+        "Longitude": -119.137,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 46.2112
+    },
+    "108.58.169.50": {
+        "Longitude": -74.1574,
+        "Org": "Optimum Online",
+        "ISP": "Optimum Online",
+        "Latitude": 40.8217
+    },
+    "166.159.63.47": {
+        "Longitude": -97.9036,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 34.6451
+    },
+    "96.57.176.74": {
+        "Longitude": -74.1143,
+        "Org": "Optimum Online",
+        "ISP": "Optimum Online",
+        "Latitude": 40.6687
+    },
+    "166.251.70.183": {
+        "Longitude": -93.6091,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 41.6005
+    },
+    "166.239.205.68": {
+        "Longitude": -87.2179,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 35.5128
+    },
+    "47.21.84.76": {
+        "Longitude": -73.2121,
+        "Org": "Optimum Online",
+        "ISP": "Optimum Online",
+        "Latitude": 40.8594
+    },
+    "166.142.141.175": {
+        "Longitude": -79.9309,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude":	32.7766
+    },
+    "173.220.152.146": {
+        "Longitude": -74.1102,
+        "Org": "Optimum Online",
+        "ISP": "Optimum Online",
+        "Latitude": 40.7966
+    },
+    "206.19.236.60": {
+        "Longitude": -96.7107,
+        "Org": "AT&T Enhanced Network Services",
+        "ISP": "CERFnet",
+        "Latitude": 32.9909
+    },
+    "166.251.70.56": {
+        "Longitude": -93.6091,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 41.6005
+    },
+    "166.151.7.191": {
+        "Longitude": -73.8268,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 40.7087
+    },
+    "166.149.195.51": {
+        "Longitude": -89.3634,
+        "Org": "Verizon Wireless",
+        "ISP": "Verizon Wireless",
+        "Latitude": 35.0765
+    }
+}
